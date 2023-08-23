@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: 5d2e6d03a520be6419420f1abfcf4d42
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plyer_data_ui_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afb152367692445b7919315d04b9b0
+      internalID: -1134887258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d580a038a1e267943925097d018d3dcb
+      internalID: -947777836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4e8ae2ea8ee54cb47f76303edbb54
+      internalID: 878820769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763afab76c9f7ae4687397f82b7a49b7
+      internalID: 765312481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139d9834015266245896b5c3091f2e69
+      internalID: -1094453748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574bafd999818ce449f970e338f3192f
+      internalID: -747109841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad989cbca22cc448bd103641e6a1ab
+      internalID: 591431090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2c1fd377be98498cc1c306566ad17
+      internalID: 983914232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9456d233256164d9af83febc1f68d1
+      internalID: 1613004912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b85ebd8c533f4f8a82bf44b644fb1
+      internalID: -82201918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f55f6247771343b8d6157f93a76b8
+      internalID: -1117262279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cbb907a848ff540b3e3906983e9f83
+      internalID: -1101419383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb6d15a6674b447857871ae68b0006
+      internalID: -19637856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_13
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a941160390b60ff46a6c0dd1977ebea2
+      internalID: -257951460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4222d918622d1f34694d9c685d33a8b8
+      internalID: -1823636231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febcbe6a4dbf66f428d9d292afe92221
+      internalID: 229918223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b988e9a818eab46bd68e76cf3060e8
+      internalID: -1821752719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_17
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46aacaf40e03354b9f1decb3bb0d971
+      internalID: -2062815314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f81da1eb9d834a8f49aa06b2bd520
+      internalID: -2106437185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_19
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43333d179b571504fa2cfba0b24d806c
+      internalID: 1630117237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff851b5fab919d844b716acefa9bb957
+      internalID: 1160887842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_21
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9576fd47920d34294fb015f6a0c7ac
+      internalID: 961195095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_22
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df46b519036994db9dfdced5c9dd35
+      internalID: -65073390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_23
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc8a1e637cb6f46b47282ded4bb3f9
+      internalID: 1362360015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_24
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228f371381383548b4230b1cb6c6e35
+      internalID: 617071914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_25
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6eb242687332b4dbce90198e887833
+      internalID: -46209385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_26
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e516d8e08ddf048bff05893c087ad1
+      internalID: -137276406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_27
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d4bf884b635dd43b83b51d7f673ce4
+      internalID: -1404355370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_28
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc4f8fee2d3de4a98f7a8b18b087ba
+      internalID: -1388396722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_29
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf2bea71e7ffe44a81c0e6fcf639717
+      internalID: -768162015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8478e620b102b46b1fd27fa20fefe5
+      internalID: -33157970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_31
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3aa21912699b47bbbf94a6237929e
+      internalID: -1412609315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_32
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f915b2ad4bb9cc344ae3d471748b9646
+      internalID: 1165857684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_33
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e657e6e51ebf74c874284744e73d94
+      internalID: 452085501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_34
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520fd80d5a9188c4da59297148a59819
+      internalID: 129308289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_35
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a4512711f2384e98cab8e0ca8eda7
+      internalID: 661836192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_36
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417ad7aee5e2a04594979dc85af1412
+      internalID: -2062674357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_37
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b1abb2cb69a54898c4cecec0fe1ce
+      internalID: -1400552946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_38
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee7097487cdd14eb29023a5b4b87ef
+      internalID: 849426173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_39
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901e82d8dc93a045ad89afb46de2e59
+      internalID: 147674242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_40
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd8b5e349563c54a9e78a9e83710a79
+      internalID: -878583030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_41
+      rect:
+        serializedVersion: 2
+        x: 8200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3074c3119f99d545a09e6b8e75f1178
+      internalID: -1031978007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_42
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8ce2f8864d2940873302cfba845fd
+      internalID: -285818907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_43
+      rect:
+        serializedVersion: 2
+        x: 8600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f391e137ca32aab43a2fe36fead345fe
+      internalID: -1134196130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_44
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eecc38b945612749875a7885316e4bd
+      internalID: -928584897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_45
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18beba226c59b14e840dae6cb5770eb
+      internalID: 1473455706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_46
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0a8a2a1adf53347b6601efb5139411
+      internalID: -371818927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_47
+      rect:
+        serializedVersion: 2
+        x: 9400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b755d279ff53bd74483f7ed754caa2d1
+      internalID: -2123648591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_48
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a709df2c3c8de44e9c92922f4300ed5
+      internalID: -207228411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_49
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a145fb309af8945b9f688ab1574e64
+      internalID: 108859845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_50
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1fcc7cc3b37f4438e78fafa7682832
+      internalID: -1080632021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_51
+      rect:
+        serializedVersion: 2
+        x: 10200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9daab0daa670b34dace959256c37c21
+      internalID: 1769266232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_52
+      rect:
+        serializedVersion: 2
+        x: 10400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca20685818f8a3241ac46c513b3f8ae1
+      internalID: 1635668075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_53
+      rect:
+        serializedVersion: 2
+        x: 10600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c946cddd2093ac54cbe893b902648ebf
+      internalID: -525428606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_54
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5ea07edaa200448ffaefbe3a38b3c
+      internalID: -1510001512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_55
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7d5b62fb5a694d833c847471a586b
+      internalID: 1990143545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_56
+      rect:
+        serializedVersion: 2
+        x: 11200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f5fed996304b4cace78873ae4e12d
+      internalID: -692204295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_57
+      rect:
+        serializedVersion: 2
+        x: 11400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e00cba57e4d4941a4c1487124511b6
+      internalID: -549515304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_58
+      rect:
+        serializedVersion: 2
+        x: 11600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127930e9e93870a479514a83c8f8792c
+      internalID: 1986465932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_59
+      rect:
+        serializedVersion: 2
+        x: 11800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d110d677ad6014bad82ac6795fb340
+      internalID: -489769801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_60
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce602466f82b9f459ce2c72e593d9f4
+      internalID: 395909239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_61
+      rect:
+        serializedVersion: 2
+        x: 12200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303945bf94f7dcd409837415d973ec8d
+      internalID: -1426653357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_62
+      rect:
+        serializedVersion: 2
+        x: 12400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120ac4f61225524e9fccf0c84a99b2a
+      internalID: 487564745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_63
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73aaf47a5843745b98bf62db712ead
+      internalID: -263324840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_64
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93d0d24bd3a9d43953fd284be79f72
+      internalID: 265069366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_65
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c613ff0f88c1c2f44848420e4d7ead33
+      internalID: 1381588660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_66
+      rect:
+        serializedVersion: 2
+        x: 13200
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c51de976b6cb43b8f6aaab86d5172
+      internalID: -1468570852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_67
+      rect:
+        serializedVersion: 2
+        x: 13400
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68728e407d13e943adffe87b63f696d
+      internalID: -1967045521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_68
+      rect:
+        serializedVersion: 2
+        x: 13600
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1877acbbdbdf8cd45b3d5429f7344840
+      internalID: 1219944318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_69
+      rect:
+        serializedVersion: 2
+        x: 13800
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccefbe91b967e479e8abba6226d44f
+      internalID: -1813537139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plyer_data_ui_70
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 0
+        width: 196
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aeb5c41a09a634e9c75ab19b0e5088
+      internalID: 262438785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      plyer_data_ui_0: -1134887258
+      plyer_data_ui_1: -947777836
+      plyer_data_ui_10: -1117262279
+      plyer_data_ui_11: -1101419383
+      plyer_data_ui_12: -19637856
+      plyer_data_ui_13: -257951460
+      plyer_data_ui_14: -1823636231
+      plyer_data_ui_15: 229918223
+      plyer_data_ui_16: -1821752719
+      plyer_data_ui_17: -2062815314
+      plyer_data_ui_18: -2106437185
+      plyer_data_ui_19: 1630117237
+      plyer_data_ui_2: 878820769
+      plyer_data_ui_20: 1160887842
+      plyer_data_ui_21: 961195095
+      plyer_data_ui_22: -65073390
+      plyer_data_ui_23: 1362360015
+      plyer_data_ui_24: 617071914
+      plyer_data_ui_25: -46209385
+      plyer_data_ui_26: -137276406
+      plyer_data_ui_27: -1404355370
+      plyer_data_ui_28: -1388396722
+      plyer_data_ui_29: -768162015
+      plyer_data_ui_3: 765312481
+      plyer_data_ui_30: -33157970
+      plyer_data_ui_31: -1412609315
+      plyer_data_ui_32: 1165857684
+      plyer_data_ui_33: 452085501
+      plyer_data_ui_34: 129308289
+      plyer_data_ui_35: 661836192
+      plyer_data_ui_36: -2062674357
+      plyer_data_ui_37: -1400552946
+      plyer_data_ui_38: 849426173
+      plyer_data_ui_39: 147674242
+      plyer_data_ui_4: -1094453748
+      plyer_data_ui_40: -878583030
+      plyer_data_ui_41: -1031978007
+      plyer_data_ui_42: -285818907
+      plyer_data_ui_43: -1134196130
+      plyer_data_ui_44: -928584897
+      plyer_data_ui_45: 1473455706
+      plyer_data_ui_46: -371818927
+      plyer_data_ui_47: -2123648591
+      plyer_data_ui_48: -207228411
+      plyer_data_ui_49: 108859845
+      plyer_data_ui_5: -747109841
+      plyer_data_ui_50: -1080632021
+      plyer_data_ui_51: 1769266232
+      plyer_data_ui_52: 1635668075
+      plyer_data_ui_53: -525428606
+      plyer_data_ui_54: -1510001512
+      plyer_data_ui_55: 1990143545
+      plyer_data_ui_56: -692204295
+      plyer_data_ui_57: -549515304
+      plyer_data_ui_58: 1986465932
+      plyer_data_ui_59: -489769801
+      plyer_data_ui_6: 591431090
+      plyer_data_ui_60: 395909239
+      plyer_data_ui_61: -1426653357
+      plyer_data_ui_62: 487564745
+      plyer_data_ui_63: -263324840
+      plyer_data_ui_64: 265069366
+      plyer_data_ui_65: 1381588660
+      plyer_data_ui_66: -1468570852
+      plyer_data_ui_67: -1967045521
+      plyer_data_ui_68: 1219944318
+      plyer_data_ui_69: -1813537139
+      plyer_data_ui_7: 983914232
+      plyer_data_ui_70: 262438785
+      plyer_data_ui_8: 1613004912
+      plyer_data_ui_9: -82201918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
